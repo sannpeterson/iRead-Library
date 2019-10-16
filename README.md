@@ -8,3 +8,4 @@
  - :heart: [Git Explorer](https://gitexplorer.com/) at 2019-10-12 18:8
  - :+1: [Label Studio](https://labelstud.io/) at 2019-10-12 18:9
  - :+1: [coronin/thepaperlink-chrome: source of chrome extension "the Paper Link" for PubMed](https://github.com/coronin/thepaperlink-chrome) at 2019-10-12 22:36
+ - :+1: [SVG-Edit/svgedit: Powerful SVG-Editor for your browser](https://github.com/SVG-Edit/svgedit) at 2019-10-16 7:41
