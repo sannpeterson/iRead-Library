@@ -11,3 +11,4 @@
  - :+1: [SVG-Edit/svgedit: Powerful SVG-Editor for your browser](https://github.com/SVG-Edit/svgedit) at 2019-10-16 7:41
  - :heart: [The Wick Editor - Learn](https://www.wickeditor.com/index.html#/learn/) at 2019-10-16 7:54
  - :heart: [Snippet List - 30 seconds of CSS](https://css.30secondsofcode.org/) at 2019-10-18 13:3
+ - :heart: [fancybox - Touch enabled, responsive and fully customizable jQuery lightbox script](http://fancyapps.com/fancybox/3/) at 2019-10-18 14:36
