@@ -10,3 +10,4 @@
  - :+1: [coronin/thepaperlink-chrome: source of chrome extension "the Paper Link" for PubMed](https://github.com/coronin/thepaperlink-chrome) at 2019-10-12 22:36
  - :+1: [SVG-Edit/svgedit: Powerful SVG-Editor for your browser](https://github.com/SVG-Edit/svgedit) at 2019-10-16 7:41
  - :heart: [The Wick Editor - Learn](https://www.wickeditor.com/index.html#/learn/) at 2019-10-16 7:54
+ - :heart: [Snippet List - 30 seconds of CSS](https://css.30secondsofcode.org/) at 2019-10-18 13:3
