@@ -12,3 +12,4 @@
  - :heart: [The Wick Editor - Learn](https://www.wickeditor.com/index.html#/learn/) at 2019-10-16 7:54
  - :heart: [Snippet List - 30 seconds of CSS](https://css.30secondsofcode.org/) at 2019-10-18 13:3
  - :heart: [fancybox - Touch enabled, responsive and fully customizable jQuery lightbox script](http://fancyapps.com/fancybox/3/) at 2019-10-18 14:36
+ - :+1: [Turn Python Scripts into Beautiful ML Tools - Towards Data Science](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) at 2019-10-18 22:40
